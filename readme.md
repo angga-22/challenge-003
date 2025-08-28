@@ -1,5 +1,5 @@
 ## Challenge 003: Cross-Protocol Yield Tracker Implementation
-
+Deployed url: https://challenge-003-nextjs.vercel.app/yield-aggregator
 This project demonstrates an advanced implementation of Challenge 003, focusing on building a sophisticated cross-protocol yield tracking system with enterprise-level optimizations. The implementation addresses three key optimization areas: **Complex State Management**, **Advanced RPC Optimization**, and **Multi-Protocol Integration**.
 
 ### Challenge Overview
